@@ -1,1 +1,3 @@
 .idea/
+Bot/.env
+Bot/__pycache__/
